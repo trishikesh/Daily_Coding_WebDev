@@ -5,6 +5,8 @@ Task done - video 1-10
           
 Important Points :
 
+Core Web Vitals :-    learn more on Web.dev
+
 1. CLS - Cumulative Layout Shift 
        - page content kitna shift hota h upon complete loading of site
 2. LCP - Largest Contextual Paint
@@ -12,3 +14,5 @@ Important Points :
        - good score is 2.5 sec
 3. FID - First Input Delay
        - kitne time m user ka dia hua input process hota h
+
+On Inspect - go to Light House - Check the Web Vitals and improve performance
