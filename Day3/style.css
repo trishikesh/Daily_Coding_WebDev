@@ -1,0 +1,30 @@
+div p {
+    color: blue;
+} /*only color of selected element is being changed*/
+
+.c1 {
+    color: red;
+}  /*changing based on class*/
+
+*{
+    margin: 50px;
+    padding: auto;
+    } /*changing all the elements in the page*/
+
+    /* pseudo selector */
+a:visited{
+    color: blue;
+}
+a:link{
+    color: purple;
+}
+a:active{
+    background-color: red;
+}
+a:hover{
+    background-color: green;
+}
+p:first-child{
+    background-color: brown;
+}
+
