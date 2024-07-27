@@ -1,0 +1,19 @@
+1. position should be relative in order to use z-index.
+
+2.z-index of obj should be 1 --- if they hv to appear above other.
+
+3.position should be relative if u wish to overlay objs --- use top/bottom or left/right etc.
+
+4.position abosolute --- does relative to nearest  ansector's position.
+
+5. position fixed --- that item doesnt move from screen even on scrolling.
+
+6. position sticky , top=0 --- item sticks to top once scroll nd doesnt take part in further scrolling. [used for nav-bar]
+
+7. z-index se we can adjust koi obj kiske uper/neeche show ho.
+
+8. EXCEPTION : transform , filter or perspective properies can also make element appear as positioned.
+
+9. Float - allows to hv other elements in same line in remaining space rather than sending them in next line.
+
+10. Clear - allows no element to appear in its space.
