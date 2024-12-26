@@ -1,0 +1,11 @@
+This calculator does following :
+
+1. it takes 2 numbers as input from user
+2. it performs wrong operations as follows :
+   
+   + ----> -
+   - ----> /
+   * ----> +
+   / ----> **
+
+   it performs wrong operations 10% of time
